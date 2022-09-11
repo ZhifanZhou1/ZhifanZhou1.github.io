@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaoyang Li"
+title                    : "Zhifan Zhou"
 title_separator          : "-"
-name                     : &name "Jiaoyang Li"
-description              : &description "Assitant Professor at Carnegie Mellon University"
-url                      : https://jiaoyangli.me  # https://Jiaoyang-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhifan Zhou"
+description              : &description "Research scientist at University of Maryland at College Park"
+url                      : https://ZhifanZhou1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jiaoyang-Li.github.io"
+repository               : "ZhifanZhou1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -74,18 +74,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-118653808-1"
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Jiaoyang Li"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor at Carnegie Mellon University"
-  location         : "Pittsburgh, Pennsylvania"
+  name             : "Zhifan Zhou"
+  avatar           : 
+  bio              : "Research Scientist at University of Maryland at College Park"
+  location         : "College Park, Maryland"
   employer         :
-  googlescholar    : citations?user=F5qzvmkAAAAJ&hl=en
-  email            : jiaoyanl@andrew.cmu.edu
+  googlescholar    : citations?user=8c-XDMsAAAAJ&hl=en
+  email            : zhifan@umd.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -93,26 +93,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Jiaoyang-Li
+  github           : ZhifanZhou1
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : jiaoyangli-ai
-  orcid            : 0000-0002-0032-1758
+  linkedin         : zhifan-zhou-13414223
+  orcid            : # 0000-0002-0032-1758
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : JiaoyangLi9
+  twitter          : # JiaoyangLi9
   vine             :
   weibo            :
   xing             :
-  youtube          : UCrAX1BmF4HORDXYR4EMpLXA
+  youtube          : # UCrAX1BmF4HORDXYR4EMpLXA
   wikipedia        :
-  dblp             : 198/6422-1
-  researchgate     : Jiaoyang_Li
+  dblp             : #198/6422-1
+  researchgate     : Zhifan-Zhou-2
 
 
 # Reading Files
