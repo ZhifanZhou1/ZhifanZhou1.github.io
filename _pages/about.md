@@ -22,7 +22,7 @@ an atom chip wire and radio-frequency Rabi transitions between Zeeman sublevels 
 which allows the splitting of atoms into a continuous wide range of different momentum states but also enables the recombining of the split atoms. This process 
 is highly coherent by observing interference fringes and the phase diagrams.   With the prepared spatial quantum superposition, I used an additional Rabi transition 
 to prepare the two-level clock states and a weak magnetic gradient to induce the relative clock rotation to study a relative time lag as which-path information in 
-clock interferometry [1]. Furthermore, I proposed and demonstrated a new quantum complementarity relation for clocks in the context of general relativity. [2]. 
+clock interferometry [[Science2015](https://zhifanzhou.com/publications/Magalit2015)]. Furthermore, I proposed and demonstrated a new quantum complementarity relation for clocks in the context of general relativity. [2]. 
  
 The FGBS population fringe can be realized by reversing the splitting and stopping magnetic gradients in a time-reversed manner (Fig.1B) to recombine the atomic 
 wavepackets in position and momentum space. The separation of the wavepackets can be larger than the size of each wavepacket, thus realizing a complete Stern-Gerlach 
