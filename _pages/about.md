@@ -40,8 +40,8 @@ obtain the red shift in general relativity, enabling a new quantum tool to measu
 <img src="/images/DKS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
 Light-atom interactions in gaseous atoms exhibit strong and tunable nonlinearity and dispersion, enabling exotic physics to be realized. Dissipative Kerr solitons (DKSs) 
 are self-localized photonic structures resulting from the double balance of dispersion by nonlinearity and loss by parametric gain, which are typically 
-realized in solid-state systems. In Fig.3, I present DKSs based on a four-wave mixing process in hot rubidium atoms (see also [7]). The solitons are 
+realized in solid-state systems. In Fig.3, I present DKSs based on a four-wave mixing process in hot rubidium atoms . The solitons are 
 tunable with pump detuning and laser power and exhibit Turing rolls, platicons, and dark-soliton formation. The realization of DKSs in the atomic systems 
-will facilitate the direct observation of the dynamics in the temporal domain and the precise control such as soliton collisions. As quantum light sources 
+will facilitate the fundamental study of nonlinear optics such as the direct observation of the dynamics in the temporal domain and the precise control such as soliton collisions. As quantum light sources 
 are readily available with a four-wave mixing process in hot rubidium atoms, it is interesting to explore the quantum properties of DKSs and the 
 relationship with the quantum dynamics of photons.
