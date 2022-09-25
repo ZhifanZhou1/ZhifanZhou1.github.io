@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics(AMO)/Quantum Information Science/Nonlinear Optics(Physics/EE/ECE). Please feel free to contact me if you are interested.
+I am a Research Scientist in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics/Quantum Information Science/Nonlinear Optics (Physics/EE/ECE). Please feel free to contact me if you are interested.
 
 # Research
-Quantum control and coherence in AMO physics enable a series of studies of non-traditional areas. Examples include the study of gravitational physics using a matter-wave interferometer, entanglement-induced topological phenomena, and the realization of dissipative Kerr solitons in warm atomic vapor. 
+Quantum control and coherence in Atomic, Molecular and Optical Physics(AMO) enable a series of studies of non-traditional areas. Examples include the study of gravitational physics using a matter-wave interferometer, entanglement-induced topological phenomena, and the realization of dissipative Kerr solitons in warm atomic vapor. 
 
 ## Matter-wave interferometer on an atom chip, a platform for quantum optics and gravity studies
 <img src="/images/FGBS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
@@ -23,7 +23,7 @@ which allows the splitting of atoms into a continuous wide range of different mo
 is highly coherent by observing interference fringes and the phase diagrams.   With the prepared spatial quantum superposition, I used an additional Rabi transition 
 to prepare the two-level clock states and a simulated gravitational time lag 
 to study clock time as which-path information in 
-clock interferometry [[Science2015](https://zhifanzhou.com/publications/Magalit2015)]. Furthermore, I proposed and demonstrated a new quantum complementarity relation for clocks in the context of general relativity [[Zhou2018](https://zhifanzhou.com/publications/Zhou2018)]. 
+clock interferometry [[Science2015](https://zhifanzhou.com/publications/Magalit2015)]. Furthermore, I proposed and demonstrated a new quantum complementarity relation for clocks in the context of general relativity [[CQG2018](https://zhifanzhou.com/publications/Zhou2018)]. 
  
 The FGBS population fringe can be realized by reversing the splitting and stopping magnetic gradients in a time-reversed manner (Fig. B on the right) to recombine the atomic 
 wavepackets in position and momentum space. The separation of the wavepackets can be larger than the size of each wavepacket, thus realizing a complete Stern-Gerlach 
@@ -32,7 +32,7 @@ interferometer, a regime where theoreticians in quantum gravity will feel excite
 ## An experimental test of the geodesic rule proposition for the noncyclic geometric phase
 <img src="/images/JumpFigure.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
 The geometric phase due to the evolution of the Hamiltonian is a central concept in quantum physics and may become advantageous for quantum technology. In noncyclic evolutions, a proposition relates the geometric phase to the area bounded by the phase-space trajectory and the shortest geodesic connecting its end points. The experimental demonstration of this geodesic rule proposition in different systems is of great interest, especially
-due to the potential use in quantum technology. Here, we report a previously unshown experimental confirmation of the geodesic rule for a noncyclic geometric phase by means of a spatial SU(2) matter-wave interferometer, demonstrating, with high precision, the predicted phase sign change and $\pi$ jumps. We show the connection
+due to the potential use in quantum technology. Here[[SciAdv2020](https://zhifanzhou.com/publications/Zhou2020)], we report a previously unshown experimental confirmation of the geodesic rule for a noncyclic geometric phase by means of a spatial SU(2) matter-wave interferometer, demonstrating, with high precision, the predicted phase sign change and $\pi$ jumps. We show the connection
 between our results and the Pancharatnam phase. Last, we point out that the geodesic rule may be applied to
 obtain the red shift in general relativity, enabling a new quantum tool to measure gravity.
 
