@@ -22,21 +22,27 @@ Matthew DiMario, Jie Zhao, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), FM3B.5.         
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB32882D3%2DBF55%2D4CAF%2D807E44C3CBBD0426%5F484719%2FCLEO%5FQELS%2D2022%2DFM3B%2E5%2Epdf%3Fda%3D1%26id%3D484719%26uri%3DCLEO%5FQELS%2D2022%2DFM3B%2E5%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
-* [Kerr soliton formation in nondegenerate phase-conjugate resonators](https://zhifanzhou.com/publications/Zhao2022)                
-Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                             
-<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), FS4B.8.         
-[https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F940EA254%2D45AC%2D4BD6%2D8F6E24BBD12B30F4%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library]
+* [Kerr soliton formation in nondegenerate phase-conjugate resonators](https://zhifanzhou.com/publications/Zhao2022)                   
+Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                                 
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), JTu3A.42.         
+[https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB79F4661%2DFDBD%2D4BBA%2D96E36E7EA08C6F9D%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library]
+
 
 ## 2021
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.             
-[[publisher](https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2021-JTu3A.48)]
+[[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F62A8CE41%2D40BF%2D4F4B%2D82D6C6FA346AAF76%5F454458%2FCLEO%5FAT%2D2021%2DJTu3A%2E48%2Epdf%3Fda%3D1%26id%3D454458%26uri%3DCLEO%5FAT%2D2021%2DJTu3A%2E48%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 * [Realization of a complete Stern-Gerlach interferometer: Towards a test of quantum gravity](https://zhifanzhou.com/publications/Magalit2021)                  
 Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Omer Amit, Yonathan Japha, Samuel Moukouri, Daniel Rohrlich, Anupam Mazumdar, Sougato Bose, Carsten Henkel, Ron Folman.                               
 <i>Science Advances</i>, 7, eabg2879 (2021).     
 [[publisher](https://www.science.org/doi/10.1126/sciadv.abg2879)]
+
+* [Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell](https://zhifanzhou.com/publications/Zhao2021)
+Jie Zhao, **Zhifan Zhou**, Paul D. Lett.                                                 
+<i>SPIE OPTO</i>, Optical and Quantum Sensing and Precision Metrology, 1170021 (2021).         
+[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11700/1170021/Investigations-on-phase-conjugation-based-on-nondegenerate-four-wave-mixing/10.1117/12.2586674.short]
 
 ## 2020
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           

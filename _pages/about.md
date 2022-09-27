@@ -14,7 +14,7 @@ I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https:
 I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics/Quantum Information Science/Nonlinear Optics (Physics/EE/ECE). Please feel free to contact me if you are interested.
 
 # Research
-Quantum control and coherence in Atomic, Molecular and Optical Physics(AMO) enable a series of studies of non-traditional areas. Examples include the study of gravitational physics using a matter-wave interferometer, entanglement-induced topological phenomena, and the realization of dissipative Kerr solitons in warm atomic vapor. 
+Quantum control and coherence in Atomic, Molecular and Optical Physics (AMO) enable a series of studies of non-traditional areas. Examples include the study of gravitational physics using a matter-wave interferometer, entanglement-induced topological phenomena, and the realization of dissipative Kerr solitons in warm atomic vapor. 
 
 ## Matter-wave interferometer on an atom chip, a platform for quantum optics and gravity studies
 <img src="/images/FGBS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
