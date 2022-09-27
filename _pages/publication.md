@@ -9,7 +9,7 @@ This page is under construction.
 ## 2022
 * [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/publications/Zhou2022)                                  
 **Zhifan Zhou**, Jie Zhao, Matthew DiMario, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                             
-<i> Conference on Lasers and Electro-Optics </i>, OSA Technical Digest (Optical Society of America, 2022), FS4B.8.         
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), FS4B.8.         
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F9049A8A2%2DAF1A%2D4655%2D81FD358BC729E991%5F484797%2FCLEO%5FQELS%2D2022%2DFS4B%2E8%2Epdf%3Fda%3D1%26id%3D484797%26uri%3DCLEO%5FQELS%2D2022%2DFS4B%2E8%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 * [Observation of Anomalous Moire Patterns](https://zhifanzhou.com/publications/Amit2022)                                  
@@ -17,15 +17,20 @@ Omer Amit, Or Dobkowski, **Zhifan Zhou**, Yair Margalit, Yonathan Japha, Samuel 
 <i>New J. Phys.</i>,  24, 073032 (2022).     
 [[publisher](https://iopscience.iop.org/article/10.1088/1367-2630/ac7cff/pdf)]
 
-* [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium](https://zhifanzhou.com/publications//DiMario2022)
+* [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium](https://zhifanzhou.com/publications/DiMario2022)                            
 Matthew DiMario, Jie Zhao, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                             
-<i> Conference on Lasers and Electro-Optics </i>, OSA Technical Digest (Optical Society of America, 2022), FM3B.5.         
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), FM3B.5.         
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB32882D3%2DBF55%2D4CAF%2D807E44C3CBBD0426%5F484719%2FCLEO%5FQELS%2D2022%2DFM3B%2E5%2Epdf%3Fda%3D1%26id%3D484719%26uri%3DCLEO%5FQELS%2D2022%2DFM3B%2E5%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
+
+* [Kerr soliton formation in nondegenerate phase-conjugate resonators](https://zhifanzhou.com/publications/Zhao2022)                
+Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                             
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), FS4B.8.         
+[https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F940EA254%2D45AC%2D4BD6%2D8F6E24BBD12B30F4%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library]
 
 ## 2021
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
-<i> Conference on Lasers and Electro-Optics </i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.             
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.             
 [[publisher](https://opg.optica.org/abstract.cfm?uri=CLEO_AT-2021-JTu3A.48)]
 
 * [Realization of a complete Stern-Gerlach interferometer: Towards a test of quantum gravity](https://zhifanzhou.com/publications/Magalit2021)                  
