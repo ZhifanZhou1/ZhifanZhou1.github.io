@@ -25,7 +25,7 @@ Matthew DiMario, Jie Zhao, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 * [Kerr soliton formation in nondegenerate phase-conjugate resonators](https://zhifanzhou.com/publications/Zhao2022)                   
 Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                                 
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2022), JTu3A.42.         
-[https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB79F4661%2DFDBD%2D4BBA%2D96E36E7EA08C6F9D%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library]
+[[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB79F4661%2DFDBD%2D4BBA%2D96E36E7EA08C6F9D%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 
 ## 2021
@@ -42,7 +42,7 @@ Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Omer Amit, Yonathan Japha, Samuel 
 * [Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell](https://zhifanzhou.com/publications/Zhao2021)
 Jie Zhao, **Zhifan Zhou**, Paul D. Lett.                                                 
 <i>SPIE OPTO</i>, Optical and Quantum Sensing and Precision Metrology, 1170021 (2021).         
-[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11700/1170021/Investigations-on-phase-conjugation-based-on-nondegenerate-four-wave-mixing/10.1117/12.2586674.short]
+[[publisher](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11700/1170021/Investigations-on-phase-conjugation-based-on-nondegenerate-four-wave-mixing/10.1117/12.2586674.short)]
 
 ## 2020
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           
