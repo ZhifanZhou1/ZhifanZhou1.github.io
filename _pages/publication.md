@@ -44,11 +44,21 @@ Jie Zhao, **Zhifan Zhou**, Paul D. Lett.
 <i>SPIE OPTO</i>, Optical and Quantum Sensing and Precision Metrology, 1170021 (2021).         
 [[publisher](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11700/1170021/Investigations-on-phase-conjugation-based-on-nondegenerate-four-wave-mixing/10.1117/12.2586674.short)]
 
+* [Stern-Gerlach Interferometry with the Atom Chip](https://zhifanzhou.com/publications/Keil2021)
+Mark Keil, Shimon Machluf, Yair Margalit, **Zhifan Zhou**, Omer Amit, Or Dobkowski, Yonathan Japha, Samuel Moukouri, Daniel Rohrlich, Zina Binstock, Yaniv Bar-Haim, Menachem Givon, David Groswasser, Yigal Meir, and Ron Folman.                                                       
+<i>Molecular Beams in Physics and Chemistry. Springer.</i>, Review for the centennial of the Stern-Gerlach experiment, In: Friedrich B., Schmidt-Böcking H. (eds)  (2021).         
+[[publisher](https://link.springer.com/chapter/10.1007%2F978-3-030-63963-1_14)]
+
 ## 2020
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           
 **Zhifan Zhou**, Yair Margalit, Samuel Moukouri, Yigal Meir, and Ron Folman.                                          
 <i> Science Advances</i>, 6, eaay8345 (2020).     
 [[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
+
+## 2019
+* [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer]
+
+* [T${^3}$-Stern-Gerlach Matter-Wave Interferometer]
 
 ## 2018
 * [Quantum complementarity of clocks in the context of general relativity](https://zhifanzhou.com/publications/Zhou2018)               
