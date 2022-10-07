@@ -11,6 +11,10 @@ redirect_from:
 
 I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree with Dr. Weiping Zhang in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/).  
 
+I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, 
+Molecular and Optical Physics/Quantum Information Science/Nonlinear Optics (Physics/EE/ECE). 
+Please feel free to contact me if you are interested.
+
 # Research
 Quantum control and coherence in Atomic, Molecular and Optical Physics (AMO) enable a series of studies of non-traditional areas. Examples include the study of gravitational physics using a matter-wave interferometer, entanglement-induced topological phenomena, and the realization of dissipative Kerr solitons in warm atomic vapor. 
 
