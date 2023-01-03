@@ -15,9 +15,9 @@ I am currently on the 2022-2023 academic job market, looking for faculty opening
 
 
 ## News  
-* \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](C:\Users\zfzho\Documents\GitHub\ZhifanZhou1.github.io\slides\FiOLSV4) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
-* \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](C:\Users\zfzho\Documents\GitHub\ZhifanZhou1.github.io\slides\DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
-* \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](C:\Users\zfzho\Documents\GitHub\ZhifanZhou1.github.io\slides\KerrSolitonV4) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
+* \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
+* \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](https://zhifanzhou.com/slides/DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
+* \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/slides/KerrSolitonV4) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
 * \[2022/05\] Oral presentation about [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FM3B.5).
 * \[2022/05\] Poster presentation about [Kerr soliton formation in nondegenerate phase-conjugate resonators] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-JTu3A.42).
 * \[2021/05\] Poster presentation about [A self-oscillating phase-conjugate resonator as an optical frequency comb] at [CLEO](https://opg.optica.org/abstract.cfm?uri=cleo_at-2021-JTu3A.48).
