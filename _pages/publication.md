@@ -94,7 +94,7 @@ Jietai Jing, **Zhifan Zhou**, Cunjin Liu, Zhongzhong Qin, Yami Fang, Jun Zhou, a
  * [Optical logic gates using coherent feedback](https://zhifanzhou.com/publications/Zhou2012).     
 **Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
 <i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+[[publisher](https://aip.scitation.org/doi/10.1063/1.4767133)] 
 
  * [Compact diode-laser-pumped quantum light source based on four-wave mixing in hot rubidium vapor](https://zhifanzhou.com/publications/Qin2012).     
 Zhongzhong Qin, Jietai Jing, Jun Zhou, Cunjin Liu, Raphael C. Pooser, **Zhifan Zhou**, and Weiping Zhang                          
@@ -125,4 +125,4 @@ Cunjin Liu, Jietai Jing, **Zhifan Zhou**, Raphael C Pooser, Florian Hudelist, Lu
  * [Realization of a nonlinear interferometer with parametric amplifiers](https://zhifanzhou.com/publications/Jing2011).     
 Jietai Jing, Cunjin Liu, **Zhifan Zhou**, Z. Y. Ou, and Weiping Zhang                        
 <i>Appl. Phys. Lett.</i>, 99, 011110 (2011).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+[[publisher](https://aip.scitation.org/doi/10.1063/1.3606549)] 
