@@ -57,14 +57,12 @@ Mark Keil, Shimon Machluf, Yair Margalit, **Zhifan Zhou**, Omer Amit, Or Dobkows
 [[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
 
 ## 2019
-* [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer]
-(https://zhifanzhou.com/publications/Margalit2019)
+* [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer](https://zhifanzhou.com/publications/Margalit2019)
 Y. Margalit, **Z. Zhou**, S. Machluf, Y. Japha, S. Moukouri, and R. Folman
 <i>New Journal of Physics</i>, 21, 073040 (2019). 
 [[publisher](https://iopscience.iop.org/article/10.1088/1367-2630/ab2fdc/meta)]
 
-* [T${^3}$-Stern-Gerlach Matter-Wave Interferometer]
-(https://zhifanzhou.com/publications/Amit2019)
+* [T${^3}$-Stern-Gerlach Matter-Wave Interferometer](https://zhifanzhou.com/publications/Amit2019)
 Omer Amit, Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Yonathan Japha, Matthias Zimmermann, Maxim A. Efremov, Frank A. Narducci, Ernst M. Rasel, Wolfgang P. Schleich, and Ron Folman
 <i>Phys. Rev. Lett.</i>, 123, 083601 (2019). 
 [[publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
@@ -75,8 +73,7 @@ Omer Amit, Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Yonathan Japha, Matthia
 <i>Class. Quantum Grav.</i>, 35, 185003 (2018).      
 [[publisher](https://iopscience.iop.org/article/10.1088/1361-6382/aad56b)]
 
-* [Realization of a complete Stern-Gerlach interferometer]
- (https://zhifanzhou.com/publications/Margalit2018)               
+* [Realization of a complete Stern-Gerlach interferometer](https://zhifanzhou.com/publications/Margalit2018)               
 Yair Margalit, **Zhifan Zhou**, Or Dobkowski, Yonathan Japha, Daniel Rohrlich, Samuel Moukouri, Ron Folman                                         
 <i>arXiv</i>, 1801.02708 (2018).      
 [[publisher](https://arxiv.org/abs/1801.02708)]
@@ -94,45 +91,38 @@ Jietai Jing, **Zhifan Zhou**, Cunjin Liu, Zhongzhong Qin, Yami Fang, Jun Zhou, a
 [[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
 
 ## 2012
- * [Optical logic gates using coherent feedback]
- (https://zhifanzhou.com/publications/Zhou2012).     
+ * [Optical logic gates using coherent feedback](https://zhifanzhou.com/publications/Zhou2012).     
 **Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
 <i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
 [[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
 
- * [Compact diode-laser-pumped quantum light source based on four-wave mixing in hot rubidium vapor]
- (https://zhifanzhou.com/publications/Zhou2012).     
-**Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
-<i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+ * [Compact diode-laser-pumped quantum light source based on four-wave mixing in hot rubidium vapor](https://zhifanzhou.com/publications/Qin2012).     
+Zhongzhong Qin, Jietai Jing, Jun Zhou, Cunjin Liu, Raphael C. Pooser, **Zhifan Zhou**, and Weiping Zhang                          
+<i>Optics Letters</i>, 37, 3141-3143 (2012).      
+[[publisher](https://opg.optica.org/ol/fulltext.cfm?uri=ol-37-15-3141&id=240021)] 
 
- * [Imaging using quantum noise properties of light]
- (https://zhifanzhou.com/publications/Zhou2012).     
-**Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
-<i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+ * [Imaging using quantum noise properties of light](https://zhifanzhou.com/publications/Clark2012).     
+Jeremy B Clark, **Zhifan Zhou**, Quentin Glorieux, Alberto M Marino, Paul D Lett                        
+<i>Optics Express</i>, 20, 17050-17058 (2012).      
+[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-15-17050&id=239799)] 
 
- * [Squeezing bandwidth controllable twin beam light and phase sensitive nonlinear interferometer based on atomic ensembles]
- (https://zhifanzhou.com/publications/Zhou2012).     
-**Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
-<i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+ * [Squeezing bandwidth controllable twin beam light and phase sensitive nonlinear interferometer based on atomic ensembles](https://zhifanzhou.com/publications/Jing2012).     
+JieTai Jing, CunJin Liu, **ZhiFan Zhou**, Florian Hudelist, ChunHua Yuan, LiQing Chen, XiaoYun Li, Jing Qian, KeYe Zhang, Lu Zhou, HongMei Ma, GuangJiong Dong, ZeYu Ou, WeiPing Zhang                          
+<i>Chinese Science Bulletin</i>, 57, 1925-1930 (2012).      
+[[publisher](https://link.springer.com/article/10.1007/s11434-012-5101-7)] 
 
- * [Temporally multiplexed storage of images in a gradient echo memory]
- (https://zhifanzhou.com/publications/Zhou2012).     
-**Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang                           
-<i>Appl. Phys. Lett.</i>, 101, 191113 (2012).      
-[[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
+ * [Temporally multiplexed storage of images in a gradient echo memory](https://zhifanzhou.com/publications/Zhou2012).     
+Quentin Glorieux, Jeremy B Clark, Alberto M Marino, **Zhifan Zhou**, Paul D Lett                        
+<i>Optics express</i>, 20, 12350-12358 (2012).      
+[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-11-12350&id=233381)] 
 
 ## 2011
- * [Realization of low frequency and controllable bandwidth squeezing based on a four-wave-mixing amplifier in rubidium vapor]
- (https://zhifanzhou.com/publications/Liu2011).     
+ * [Realization of low frequency and controllable bandwidth squeezing based on a four-wave-mixing amplifier in rubidium vapor](https://zhifanzhou.com/publications/Liu2011).     
 Cunjin Liu, Jietai Jing, **Zhifan Zhou**, Raphael C Pooser, Florian Hudelist, Lu Zhou, and Weiping Zhang                         
 <i>Optics letters</i>, 36, 2979 (2011).      
 [[publisher](https://opg.optica.org/ol/fulltext.cfm?uri=ol-36-15-2979&id=221205)] 
 
- * [Realization of a nonlinear interferometer with parametric amplifiers]
- (https://zhifanzhou.com/publications/Jing2011).     
+ * [Realization of a nonlinear interferometer with parametric amplifiers](https://zhifanzhou.com/publications/Jing2011).     
 Jietai Jing, Cunjin Liu, **Zhifan Zhou**, Z. Y. Ou, and Weiping Zhang                        
 <i>Appl. Phys. Lett.</i>, 99, 011110 (2011).      
 [[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
