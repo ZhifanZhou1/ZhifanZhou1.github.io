@@ -81,13 +81,13 @@ Omer Amit, Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Yonathan Japha, Matthia
 ## 2018
 * [Quantum complementarity of clocks in the context of general relativity](https://zhifanzhou.com/publications/Zhou2018)               
 **Zhifan Zhou**, Yair Margalit, Daniel Rohrlich, Yonathan Japha, and Ron Folman  
-<i>Class. Quantum Grav.</i>, 35, 185003 (2018). 
-[[pdf](https://zhifanzhou.com/files/Quantum complementarity of clocks in the context.pdf)]                                                 
+<i>Class. Quantum Grav.</i>, 35, 185003 (2018).        
+[[pdf](https://zhifanzhou.com/files/Quantum complementarity of clocks in the context.pdf)]
 [[publisher](https://iopscience.iop.org/article/10.1088/1361-6382/aad56b)]
 
 * [Realization of a complete Stern-Gerlach interferometer](https://zhifanzhou.com/publications/Margalit2018)               
 Yair Margalit, **Zhifan Zhou**, Or Dobkowski, Yonathan Japha, Daniel Rohrlich, Samuel Moukouri, Ron Folman                                                                                     
-<i>arXiv</i>, 1801.02708 (2018). 
+<i>arXiv</i>, 1801.02708 (2018).                                
 [[pdf](https://zhifanzhou.com/files/Realization of a complete Stern-Gerlach interferometer.pdf)]
 [[publisher](https://arxiv.org/abs/1801.02708)]
 
@@ -125,7 +125,7 @@ Jeremy B Clark, **Zhifan Zhou**, Quentin Glorieux, Alberto M Marino, Paul D Lett
 
  * [Squeezing bandwidth controllable twin beam light and phase sensitive nonlinear interferometer based on atomic ensembles](https://zhifanzhou.com/publications/Jing2012).     
 JieTai Jing, CunJin Liu, **ZhiFan Zhou**, Florian Hudelist, ChunHua Yuan, LiQing Chen, XiaoYun Li, Jing Qian, KeYe Zhang, Lu Zhou, HongMei Ma, GuangJiong Dong, ZeYu Ou, WeiPing Zhang                          
-<i>Chinese Science Bulletin</i>, 57, 1925-1930 (2012). 
+<i>Chinese Science Bulletin</i>, 57, 1925-1930 (2012).                                           
 [[pdf](https://zhifanzhou.com/files/Squeezing bandwidth controllable twin beam light and.pdf)]
 [[publisher](https://link.springer.com/article/10.1007/s11434-012-5101-7)] 
 
