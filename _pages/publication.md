@@ -76,7 +76,7 @@ Omer Amit, Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Yonathan Japha, Matthia
 [[publisher](https://iopscience.iop.org/article/10.1088/1361-6382/aad56b)]
 
 * [Realization of a complete Stern-Gerlach interferometer]
- (https://zhifanzhou.com/publications/Zhou2018)               
+ (https://zhifanzhou.com/publications/Margalit2018)               
 Yair Margalit, **Zhifan Zhou**, Or Dobkowski, Yonathan Japha, Daniel Rohrlich, Samuel Moukouri, Ron Folman                                         
 <i>arXiv</i>, 1801.02708 (2018).      
 [[publisher](https://arxiv.org/abs/1801.02708)]

@@ -11,16 +11,16 @@ redirect_from:
 
 I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree with Dr. Jietai Jing and Dr. Weiping Zhang in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/).  
 
-I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics/Quantum Information Science/Nonlinear Optics (Physics/EE/ECE). Please feel free to contact me if you are interested.
+I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics/Quantum Information Science(Physics/EE/ECE). Please feel free to contact me if you are interested.
 
 
 ## News  
 * \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
 * \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](https://zhifanzhou.com/slides/DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
-* \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/slides/KerrSolitonV4) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
+* \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/slides/KerrSolitonV4.pdf) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
 * \[2022/05\] Oral presentation about [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FM3B.5).
 * \[2022/05\] Poster presentation about [Kerr soliton formation in nondegenerate phase-conjugate resonators] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-JTu3A.42).
-* \[2021/05\] Poster presentation about [A self-oscillating phase-conjugate resonator as an optical frequency comb] at [CLEO](https://opg.optica.org/abstract.cfm?uri=cleo_at-2021-JTu3A.48).
+* \[2021/05\] Poster presentation about [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/slides/CLEO poster Zhifan_V3.pdf) at [CLEO](https://opg.optica.org/abstract.cfm?uri=cleo_at-2021-JTu3A.48).
 
 
 
