@@ -28,7 +28,7 @@ geodesic rule proposition for the noncyclic geometric phase](https://zhifanzhou.
 # Research
 Light-matter interaction has attracted intense research interest ranging from quantum sensing to quantum information science (such as quantum computing and quantum networks). I focus on the dynamical
 control of light-matter interaction to achieve robust generation and manipulation of multi-mode
-quantum entanglement, with both atomic and optical qubits. Traditionally, extending single-mode
+quantum entanglement, with both atomic and optical qumodes. Traditionally, extending single-mode
 entanglement to multi-mode entanglement is predominantly studied with multiple entanglement sources,
 which lacks scalability. I researched for more compact and direct means of generating multi-mode entangle
 ment in spatial and frequency domains that will make it more scalable and stable, resulting in more complex
@@ -38,9 +38,9 @@ that offers additional controls to generate novel types of entanglement and high
 scenarios. My long-term goal is to explore multi-mode entanglement from light-matter interaction to
 advance quantum science and technology with integrated systems.
 
-## Developed an atom-chip technique with dynamical control of atomic qubits
+## Developed an atom-chip technique with dynamical control of atomic qumodes
 <img src="/images/FGBS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
-A significant challenge of using atom chips for quantum science and technology is the lack of dynamic control. For example, traditional atom interferometers on chip used two static traps containing single-state atoms. I developed a series of atom chip techniques to distribute atoms within an initial single wave-packet with a single atomic state into multiple wavepackets with two internal atomic levels (qubits) [2–5], which enable dynamic control over various internal and external degrees of freedom. More specifically, I realized a self-interfering clock (compromising two atomic spin states, acting as an atomic qubit) as a which-path witness [[Science2015](https://zhifanzhou.com/publications/Magalit2015), [CQG2018](https://zhifanzhou.com/publications/Zhou2018)], which is the first time an atom clock has been put on a spatial superposition. I used the entanglement between the spin and momentum states for a spatial dynamical decoupling technique that increases the coherence length, realizing a long-sought complete Stern-Gerlach interferometer, which is important for studying quantum gravity [[SciAdv2021](https://zhifanzhou.com/publications/Magalit2021)]. I achieved a T${^3}$-Stern-Gerlach matter-wave interferometer, whose phase scales with the cube of the time that the atom spends in the interferometer [[PRL2019](https://zhifanzhou.com/publications/Amit2019)], instead of the square of time in traditional atom interferometers. These techniques allow a high-precision tool for the quantum manipulation of atomic qubits and for the surface probe.
+A significant challenge of using atom chips for quantum science and technology is the lack of dynamic control. For example, traditional atom interferometers on chip used two static traps containing single-state atoms. I developed a series of atom chip techniques to distribute atoms within an initial single wave-packet with a single atomic state into multiple wavepackets with two internal atomic levels (qubits) [[Science2015](https://zhifanzhou.com/publications/Magalit2015), [CQG2018](https://zhifanzhou.com/publications/Zhou2018),[SciAdv2021](https://zhifanzhou.com/publications/Magalit2021),], which enable dynamic control over various internal and external degrees of freedom. More specifically, I realized a self-interfering clock (compromising two atomic spin states, acting as an atomic qubit) as a which-path witness [[Science2015](https://zhifanzhou.com/publications/Magalit2015), [CQG2018](https://zhifanzhou.com/publications/Zhou2018),[PRL2019](https://zhifanzhou.com/publications/Amit2019)], which is the first time an atom clock has been put on a spatial superposition. I used the entanglement between the spin and momentum states for a spatial dynamical decoupling technique that increases the coherence length, realizing a long-sought complete Stern-Gerlach interferometer, which is important for studying quantum gravity [[SciAdv2021](https://zhifanzhou.com/publications/Magalit2021)]. I achieved a T${^3}$-Stern-Gerlach matter-wave interferometer, whose phase scales with the cube of the time that the atom spends in the interferometer [[PRL2019](https://zhifanzhou.com/publications/Amit2019)], instead of the square of time in traditional atom interferometers. These techniques allow a high-precision tool for the quantum manipulation of atomic qubits and for the surface probe.
 
 <!--An atom chip with a miniaturized structure offers a high level of spatial and temporal control of local fields, 
 making it an ideal tool for controlling the forces on the Bose-Einstein condensates (BECs). Utilizing pulsed magnetic field gradients generated by currents in 
@@ -55,18 +55,29 @@ The FGBS population fringe can be realized by reversing the splitting and stoppi
 wavepackets in position and momentum space. The separation of the wavepackets can be larger than the size of each wavepacket, thus realizing a complete Stern-Gerlach 
 interferometer, a regime where theoreticians in quantum gravity will feel excited about [4].-->
 
-## An experimental test of the geodesic rule proposition for the noncyclic geometric phase
+## Investigated the intersection between entanglement and topology with atomic qumodes
+Combing entanglement and topology enables novel quantum states with topological protection that is immune
+from disturbances. I investigated such a combination by creating topological structures with the entangled multiple modes [[SciAdv2020](https://zhifanzhou.com/publications/Zhou2020), to be published]. Specifically, I entangled the internal (spin) and external (spatial) degrees of freedom with atomic qubits and applied the geodesic rule to search for geometric phase and topological effects [[SciAdv2020](https://zhifanzhou.com/publications/Zhou2020)]. I reported a previously unshown experimental confirmation of the geodesic rule for a noncyclic geometric phase and demonstrated, with high precision, the predicted phase sign change and $\pi$ jumps. I furthermore studied the entanglement and geometric phase-induced momentum quantization in an atomic interferometer [7, 8]. The geodesic rule and the sharp phase/momentum jumps can be applied to obtain
+the weak signals in internal population distributions and external field potentials. The noncyclic opera-
+tions can be done faster than cyclic operations and facilitate additional control over relevant applications
+involving geometric phase and topology, such as geometric quantum computing.
+
+
+
+<!--## An experimental test of the geodesic rule proposition for the noncyclic geometric phase
 <img src="/images/JumpFigure.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
 The geometric phase due to the evolution of the Hamiltonian is a central concept in quantum physics and may become advantageous for quantum technology. In noncyclic evolutions, a proposition relates the geometric phase to the area bounded by the phase-space trajectory and the shortest geodesic connecting its end points. The experimental demonstration of this geodesic rule proposition in different systems is of great interest, especially
 due to the potential use in quantum technology. Here[[SciAdv2020](https://zhifanzhou.com/publications/Zhou2020)], we report a previously unshown experimental confirmation of the geodesic rule for a noncyclic geometric phase by means of a spatial SU(2) matter-wave interferometer, demonstrating, with high precision, the predicted phase sign change and $\pi$ jumps. We show the connection
 between our results and the Pancharatnam phase. Last, we point out that the geodesic rule may be applied to
-obtain the red shift in general relativity, enabling a new quantum tool to measure gravity.
+obtain the red shift in general relativity, enabling a new quantum tool to measure gravity.-->
+
+
 
 ## Dissipative Kerr solitons in a warm atomic vapor system
 <img src="/images/DKS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
 Light-atom interactions in gaseous atoms exhibit strong and tunable nonlinearity and dispersion, enabling exotic physics to be realized. Dissipative Kerr solitons (DKSs) 
 are self-localized photonic structures resulting from the double balance of dispersion by nonlinearity and loss by parametric gain, which are typically 
-realized in solid-state systems. In the figure on the right, I present DKSs based on a four-wave mixing process in hot rubidium atoms . The solitons are 
+realized in solid-state systems. In the figure on the right, I present DKSs based on a four-wave mixing process in hot rubidium atoms. The solitons are 
 tunable with pump detuning and laser power and exhibit Turing rolls, platicons, and dark-soliton formation. The realization of DKSs in the atomic systems 
 will facilitate the fundamental study of nonlinear optics such as the direct observation of the dynamics in the temporal domain and the precise control such as soliton collisions. As quantum light sources 
 are readily available with a four-wave mixing process in hot rubidium atoms, it is interesting to explore the quantum properties of DKSs and the 
