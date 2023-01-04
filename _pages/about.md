@@ -28,13 +28,7 @@ geodesic rule proposition for the noncyclic geometric phase](https://zhifanzhou.
 # Research
 Light-matter interaction has attracted intense research interest ranging from quantum sensing to quantum information science (such as quantum computing and quantum networks). I focus on the dynamical
 control of light-matter interaction to achieve robust generation and manipulation of multi-mode
-quantum entanglement, with both atomic and optical qumodes. Traditionally, extending single-mode
-entanglement to multi-mode entanglement is predominantly studied with multiple entanglement sources,
-which lacks scalability. I researched for more compact and direct means of generating multi-mode entangle
-ment in spatial and frequency domains that will make it more scalable and stable, resulting in more complex
-protocols. Meanwhile, the miniaturization of entanglement generation and manipulation is an essential step
-toward practical applications. I investigated light-matter interaction in an integrated system (an atom chip)
-that offers additional controls to generate novel types of entanglement and high-precision probes in different
+quantum entanglement, with both atomic and optical qumodes. I researched for more compact and direct means of generating multi-mode entanglement in spatial and frequency domains that will make multi-mode entanglement more scalable and stable, resulting in more complex protocols. Meanwhile, the miniaturization of entanglement generation and manipulation is an essential step toward practical applications. I investigated light-matter interaction in an integrated system (an atom chip) that offers additional controls to generate novel types of entanglement and high-precision probes in different
 scenarios. My long-term goal is to explore multi-mode entanglement from light-matter interaction to
 advance quantum science and technology with integrated systems.
 
