@@ -22,8 +22,7 @@ author_profile: true
 * [Anomalous periodicity in superpositions of localized periodic patterns](https://zhifanzhou.com/publications/Amit2022)                                  
 Omer Amit, Or Dobkowski, **Zhifan Zhou**, Yair Margalit, Yonathan Japha, Samuel Moukouri, Yigal Meir, Baruch Horovitz, Ron Folman.                                               
 <i>New J. Phys.</i>,  24, 073032 (2022).   
-[[pdf](https://zhifanzhou.com/files/Anomalous periodicity in superpositions of localized periodic.pdf)]  
-[[publisher](https://iopscience.iop.org/article/10.1088/1367-2630/ac7cff/pdf)]
+[[pdf](https://zhifanzhou.com/files/Anomalous periodicity in superpositions of localized periodic.pdf)][[publisher](https://iopscience.iop.org/article/10.1088/1367-2630/ac7cff/pdf)]
 
 * [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium](https://zhifanzhou.com/publications/DiMario2022)                            
 Matthew DiMario, Jie Zhao, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul D. Lett.                                             
@@ -40,32 +39,31 @@ Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.         
-[[pdf](https://zhifanzhou.com/files/Fio+LS_Nonlocal_V5.pdf)]         
+[[pdf](https://zhifanzhou.com/files/Fio+LS_Nonlocal_V5.pdf)]
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F62A8CE41%2D40BF%2D4F4B%2D82D6C6FA346AAF76%5F454458%2FCLEO%5FAT%2D2021%2DJTu3A%2E48%2Epdf%3Fda%3D1%26id%3D454458%26uri%3DCLEO%5FAT%2D2021%2DJTu3A%2E48%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 * [Realization of a complete Stern-Gerlach interferometer: Towards a test of quantum gravity](https://zhifanzhou.com/publications/Magalit2021)                  
 Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Omer Amit, Yonathan Japha, Samuel Moukouri, Daniel Rohrlich, Anupam Mazumdar, Sougato Bose, Carsten Henkel, Ron Folman.                               
-<i>Science Advances</i>, 7, eabg2879 (2021).     
-[[pdf](https://zhifanzhou.com/files/Fio+LS_Nonlocal_V5.pdf)]         
+<i>Science Advances</i>, 7, eabg2879 (2021).        
+[[pdf](https://zhifanzhou.com/files/Realization of a complete Stern-Gerlach interferometer Toward a test of quantum gravity.pdf)]
 [[publisher](https://www.science.org/doi/10.1126/sciadv.abg2879)]
 
-* [Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell](https://zhifanzhou.com/publications/Zhao2021)
+* [Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell](https://zhifanzhou.com/publications/Zhao2021)              
 Jie Zhao, **Zhifan Zhou**, Paul D. Lett.                                                 
 <i>SPIE OPTO</i>, Optical and Quantum Sensing and Precision Metrology, 1170021 (2021).  
-[[pdf](https://zhifanzhou.com/files/Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell.pdf)]                
+[[pdf](https://zhifanzhou.com/files/Investigations on phase conjugation based on nondegenerate four wave mixing in a Rb vapor cell.pdf)]
 [[publisher](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11700/1170021/Investigations-on-phase-conjugation-based-on-nondegenerate-four-wave-mixing/10.1117/12.2586674.short)]
 
-* [Stern-Gerlach Interferometry with the Atom Chip](https://zhifanzhou.com/publications/Keil2021)
+* [Stern-Gerlach Interferometry with the Atom Chip](https://zhifanzhou.com/publications/Keil2021)            
 Mark Keil, Shimon Machluf, Yair Margalit, **Zhifan Zhou**, Omer Amit, Or Dobkowski, Yonathan Japha, Samuel Moukouri, Daniel Rohrlich, Zina Binstock, Yaniv Bar-Haim, Menachem Givon, David Groswasser, Yigal Meir, and Ron Folman.                                                       
 <i>Molecular Beams in Physics and Chemistry. Springer.</i>, Review for the centennial of the Stern-Gerlach experiment, In: Friedrich B., Schmidt-Böcking H. (eds)  (2021).   
 [[publisher](https://link.springer.com/chapter/10.1007%2F978-3-030-63963-1_14)]
 
 ## 2020
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           
-**Zhifan Zhou**, Yair Margalit, Samuel Moukouri, Yigal Meir, and Ron Folman. 
-[[pdf](https://zhifanzhou.com/files/An experimental test of the geodesic rule proposition for the noncyclic geometric phase.pdf)]                                          
-<i>Science Advances</i>, 6, eaay8345 (2020).     
-[[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
+**Zhifan Zhou**, Yair Margalit, Samuel Moukouri, Yigal Meir, and Ron Folman.                                                
+<i>Science Advances</i>, 6, eaay8345 (2020).        
+[[pdf](https://zhifanzhou.com/files/An experimental test of the geodesic rule proposition for the noncyclic geometric phase.pdf)][[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
 
 ## 2019
 * [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer](https://zhifanzhou.com/publications/Margalit2019)             
