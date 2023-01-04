@@ -18,20 +18,19 @@ I am currently on the 2022-2023 academic job market, looking for faculty opening
 * \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
 * \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](https://zhifanzhou.com/slides/DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
 * \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/slides/KerrSolitonV4.pdf) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
-* \[2022/05\] Oral presentation about [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FM3B.5).
-* \[2022/05\] Poster presentation about [Kerr soliton formation in nondegenerate phase-conjugate resonators] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-JTu3A.42).
+<!--* \[2022/05\] Oral presentation about [Generation of Squeezed Light from Non-Degenerate Backwards Four-Wave Mixing in Warm Rubidium] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FM3B.5).-->
+<!--* \[2022/05\] Poster presentation about [Kerr soliton formation in nondegenerate phase-conjugate resonators] at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-JTu3A.42).-->
 * \[2021/05\] Poster presentation about [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/slides/CLEO poster Zhifan_V3.pdf) at [CLEO](https://opg.optica.org/abstract.cfm?uri=cleo_at-2021-JTu3A.48).
 * \[2020/01\] Invited talk about [An experimental test of the
 geodesic rule proposition for the noncyclic geometric phase](https://zhifanzhou.com/slides/PQE_GeoPhaseV6.pdf) at [PQE](https://pqeconference.com/pqe2020/schedule5.5.pdf).
 
 
 # Research
-Light-matter interaction has attracted intense research interest ranging from quantum sensing to quan-
-tum information science (such as quantum computing and quantum networks). I focus on the dynamical
+Light-matter interaction has attracted intense research interest ranging from quantum sensing to quantum information science (such as quantum computing and quantum networks). I focus on the dynamical
 control of light-matter interaction to achieve robust generation and manipulation of multi-mode
 quantum entanglement, with both atomic and optical qubits. Traditionally, extending single-mode
 entanglement to multi-mode entanglement is predominantly studied with multiple entanglement sources,
-which lacks scalability. I researched for more compact and direct means of generating multi-mode entangle-
+which lacks scalability. I researched for more compact and direct means of generating multi-mode entangle
 ment in spatial and frequency domains that will make it more scalable and stable, resulting in more complex
 protocols. Meanwhile, the miniaturization of entanglement generation and manipulation is an essential step
 toward practical applications. I investigated light-matter interaction in an integrated system (an atom chip)
@@ -43,7 +42,7 @@ advance quantum science and technology with integrated systems.
 <img src="/images/FGBS.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
 A significant challenge of using atom chips for quantum science and technology is the lack of dynamic control. For example, traditional atom interferometers on chip used two static traps containing single-state atoms. I developed a series of atom chip techniques to distribute atoms within an initial single wave-packet with a single atomic state into multiple wavepackets with two internal atomic levels (qubits) [2–5], which enable dynamic control over various internal and external degrees of freedom. More specifically, I realized a self-interfering clock (compromising two atomic spin states, acting as an atomic qubit) as a which-path witness [[Science2015](https://zhifanzhou.com/publications/Magalit2015), [CQG2018](https://zhifanzhou.com/publications/Zhou2018)], which is the first time an atom clock has been put on a spatial superposition. I used the entanglement between the spin and momentum states for a spatial dynamical decoupling technique that increases the coherence length, realizing a long-sought complete Stern-Gerlach interferometer, which is important for studying quantum gravity [[SciAdv2021](https://zhifanzhou.com/publications/Magalit2021)]. I achieved a T${^3}$-Stern-Gerlach matter-wave interferometer, whose phase scales with the cube of the time that the atom spends in the interferometer [[PRL2019](https://zhifanzhou.com/publications/Amit2019)], instead of the square of time in traditional atom interferometers. These techniques allow a high-precision tool for the quantum manipulation of atomic qubits and for the surface probe.
 
-An atom chip with a miniaturized structure offers a high level of spatial and temporal control of local fields, 
+<!--An atom chip with a miniaturized structure offers a high level of spatial and temporal control of local fields, 
 making it an ideal tool for controlling the forces on the Bose-Einstein condensates (BECs). Utilizing pulsed magnetic field gradients generated by currents in 
 an atom chip wire and radio-frequency Rabi transitions between Zeeman sublevels (Fig.A on the right), I have realized a field gradient beam splitter (FGBS) for cold atoms, 
 which allows the splitting of atoms into a continuous wide range of different momentum states but also enables the recombining of the split atoms. This process 
@@ -54,7 +53,7 @@ clock interferometry [[Science2015](https://zhifanzhou.com/publications/Magalit2
  
 The FGBS population fringe can be realized by reversing the splitting and stopping magnetic gradients in a time-reversed manner (Fig. B on the right) to recombine the atomic 
 wavepackets in position and momentum space. The separation of the wavepackets can be larger than the size of each wavepacket, thus realizing a complete Stern-Gerlach 
-interferometer, a regime where theoreticians in quantum gravity will feel excited about [4].
+interferometer, a regime where theoreticians in quantum gravity will feel excited about [4].-->
 
 ## An experimental test of the geodesic rule proposition for the noncyclic geometric phase
 <img src="/images/JumpFigure.png" title="mapf demo" style="float:right;width:300pt;padding-left:10px;" />
