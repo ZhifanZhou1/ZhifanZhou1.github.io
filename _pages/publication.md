@@ -38,7 +38,7 @@ Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 ## 2021
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
-<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48. 
+<i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.         
 [[pdf](https://zhifanzhou.com/files/Fio+LS_Nonlocal_V5.pdf)]         
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F62A8CE41%2D40BF%2D4F4B%2D82D6C6FA346AAF76%5F454458%2FCLEO%5FAT%2D2021%2DJTu3A%2E48%2Epdf%3Fda%3D1%26id%3D454458%26uri%3DCLEO%5FAT%2D2021%2DJTu3A%2E48%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
