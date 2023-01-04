@@ -39,7 +39,7 @@ Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.         
-[[pdf](https://zhifanzhou.com/files/Fio+LS_Nonlocal_V5.pdf)]
+[[pdf](https://zhifanzhou.com/files/A Self-Oscillating Phase Conjugate Resonator as an Optical Frequency Comb.pdf)]
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2F62A8CE41%2D40BF%2D4F4B%2D82D6C6FA346AAF76%5F454458%2FCLEO%5FAT%2D2021%2DJTu3A%2E48%2Epdf%3Fda%3D1%26id%3D454458%26uri%3DCLEO%5FAT%2D2021%2DJTu3A%2E48%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 * [Realization of a complete Stern-Gerlach interferometer: Towards a test of quantum gravity](https://zhifanzhou.com/publications/Magalit2021)                  
@@ -63,7 +63,8 @@ Mark Keil, Shimon Machluf, Yair Margalit, **Zhifan Zhou**, Omer Amit, Or Dobkows
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           
 **Zhifan Zhou**, Yair Margalit, Samuel Moukouri, Yigal Meir, and Ron Folman.                                                
 <i>Science Advances</i>, 6, eaay8345 (2020).        
-[[pdf](https://zhifanzhou.com/files/An experimental test of the geodesic rule proposition for the noncyclic geometric phase.pdf)][[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
+[[pdf](https://zhifanzhou.com/files/An experimental test of the geodesic rule proposition for the noncyclic geometric phase.pdf)]
+[[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
 
 ## 2019
 * [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer](https://zhifanzhou.com/publications/Margalit2019)             
@@ -95,7 +96,7 @@ Yair Margalit, **Zhifan Zhou**, Or Dobkowski, Yonathan Japha, Daniel Rohrlich, S
 * [A self-interfering clock as a "which path" witness](https://zhifanzhou.com/publications/Magalit2015).     
 Yair Margalit, **Zhifan Zhou**, Shimon Machluf, Daniel Rohrlich, Yonathan Japha, and Ron Folman 
 <i>Science</i>, 349, 1205 (2015).   
-[[pdf](https://zhifanzhou.com/files/Realization of a complete Stern-Gerlach interferometer.pdf)]
+[[pdf](https://zhifanzhou.com/files/A self-interfering clock as a which.pdf)]
 [[publisher](https://www.science.org/doi/10.1126/science.aac6498)]
 
 ## 2014
