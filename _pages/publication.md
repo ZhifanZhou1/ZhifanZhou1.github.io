@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-
+You can also find my articles on 
+<a href="https://scholar.google.com/citations?user=8c-XDMsAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ## 2022
 * [Nonlocal phase modulation of continuous-variable twin beam](https://zhifanzhou.com/publications/Zhou2022b)                                  
