@@ -7,7 +7,9 @@ author_profile: true
 You can also find my articles on 
 <a href="https://scholar.google.com/citations?user=8c-XDMsAAAAJ&hl=en">my Google Scholar profile</a>.
 
-## 2022
+[2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](year2018) | [2015](#year2015) | [2014](#year2014) | [2012](#year2012) | [2011](#year2011) 
+
+## <a name="year2022"></a> 2022 
 * [Nonlocal phase modulation of continuous-variable twin beam](https://zhifanzhou.com/publications/Zhou2022b)                                  
 **Zhifan Zhou**, Luis E. E. Araujo, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
 <i> FiO+LS</i>, OSA Technical Digest (Optical Society of America, 2022), FW1B.2.         
@@ -37,7 +39,7 @@ Jie Zhao, Matthew DiMario, **Zhifan Zhou**, B. E. Anderson, Kevin M. Jones, Paul
 [[publisher](https://opg.optica.org/view_article.cfm?gotourl=https%3A%2F%2Fopg%2Eoptica%2Eorg%2FDirectPDFAccess%2FB79F4661%2DFDBD%2D4BBA%2D96E36E7EA08C6F9D%5F482619%2FCLEO%5FAT%2D2022%2DJTu3A%2E42%2Epdf%3Fda%3D1%26id%3D482619%26uri%3DCLEO%5FAT%2D2022%2DJTu3A%2E42%26seq%3D0%26mobile%3Dno&org=University%20of%20Maryland%20McKeldin%20Library)]
 
 
-## 2021
+## <a name="year2021"></a> 2021  
 * [A self-oscillating phase-conjugate resonator as an optical frequency comb](https://zhifanzhou.com/publications/Zhou2021)                  
 **Zhifan Zhou**, Jie Zhao, Rory W. Spiers, Nicholas Brewer, Meng-Chang Wu, Paul D. Lett.                                                 
 <i> Conference on Lasers and Electro-Optics</i>, OSA Technical Digest (Optical Society of America, 2021), JTu3A.48.         
@@ -61,14 +63,14 @@ Mark Keil, Shimon Machluf, Yair Margalit, **Zhifan Zhou**, Omer Amit, Or Dobkows
 <i>Molecular Beams in Physics and Chemistry. Springer.</i>, Review for the centennial of the Stern-Gerlach experiment, In: Friedrich B., Schmidt-Böcking H. (eds)  (2021).   
 [[publisher](https://link.springer.com/chapter/10.1007%2F978-3-030-63963-1_14)]
 
-## 2020
+## <a name="year2020"></a> 2020  
 * [An experimental test of the geodesic rule proposition for the non-cyclic geometric phase](https://zhifanzhou.com/publications/Zhou2020)           
 **Zhifan Zhou**, Yair Margalit, Samuel Moukouri, Yigal Meir, and Ron Folman.                                                
 <i>Science Advances</i>, 6, eaay8345 (2020).        
 [[pdf](https://zhifanzhou.com/files/An experimental test of the geodesic rule proposition for the noncyclic geometric phase.pdf)]
 [[publisher](https://www.science.org/doi/10.1126/sciadv.aay8345)]
 
-## 2019
+## <a name="year2019"></a> 2019 
 * [Analysis of a high-stability Stern-Gerlach spatial fringe interferometer](https://zhifanzhou.com/publications/Margalit2019)             
 Y. Margalit, **Z. Zhou**, S. Machluf, Y. Japha, S. Moukouri, and R. Folman
 <i>New Journal of Physics</i>, 21, 073040 (2019). 
@@ -81,7 +83,7 @@ Omer Amit, Yair Margalit, Or Dobkowski, **Zhifan Zhou**, Yonathan Japha, Matthia
 [[pdf](https://zhifanzhou.com/files/T3 Stern-Gerlach Matter-Wave Interferometer.pdf)]
 [[publisher](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.083601)]
 
-## 2018
+## <a name="year2018"></a> 2018 
 * [Quantum complementarity of clocks in the context of general relativity](https://zhifanzhou.com/publications/Zhou2018)               
 **Zhifan Zhou**, Yair Margalit, Daniel Rohrlich, Yonathan Japha, and Ron Folman  
 <i>Class. Quantum Grav.</i>, 35, 185003 (2018).        
@@ -94,20 +96,20 @@ Yair Margalit, **Zhifan Zhou**, Or Dobkowski, Yonathan Japha, Daniel Rohrlich, S
 [[pdf](https://zhifanzhou.com/files/Realization of a complete Stern-Gerlach interferometer.pdf)]
 [[publisher](https://arxiv.org/abs/1801.02708)]
 
-## 2015  
+## <a name="year2015"></a> 2015  
 * [A self-interfering clock as a "which path" witness](https://zhifanzhou.com/publications/Magalit2015).     
 Yair Margalit, **Zhifan Zhou**, Shimon Machluf, Daniel Rohrlich, Yonathan Japha, and Ron Folman 
 <i>Science</i>, 349, 1205 (2015).   
 [[pdf](https://zhifanzhou.com/files/A self-interfering clock as a which.pdf)]
 [[publisher](https://www.science.org/doi/10.1126/science.aac6498)]
 
-## 2014
+## <a name="year2014"></a> 2014 
  * [Ultralow-light-level all-optical transistor in rubidium vapor](https://zhifanzhou.com/publications/Jing2014).                    
 Jietai Jing, **Zhifan Zhou**, Cunjin Liu, Zhongzhong Qin, Yami Fang, Jun Zhou, and Weiping Zhang                                                                                                              
 <i>Appl. Phys. Lett.</i>, 104, 151103 (2014).   
 [[pdf](https://zhifanzhou.com/files/Ultralow-light-level all-optical transistor in rubidium vapor.pdf)][[publisher](https://aip.scitation.org/doi/full/10.1063/1.4871384)] 
 
-## 2012
+## <a name="year2012"></a> 2012 
  * [Optical logic gates using coherent feedback](https://zhifanzhou.com/publications/Zhou2012).     
 **Zhifan Zhou**, Cunjin Liu, Yami Fang, Jun Zhou, Ryan T Glasser, Liqing Chen, Jietai Jing, Weiping Zhang
 <i>Appl. Phys. Lett.</i>, 101, 191113 (2012).          
@@ -138,7 +140,7 @@ Quentin Glorieux, Jeremy B Clark, Alberto M Marino, **Zhifan Zhou**, Paul D Lett
 [[pdf](https://zhifanzhou.com/files/Temporally multiplexed storage of.pdf)]
 [[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-20-11-12350&id=233381)] 
 
-## 2011
+## <a name="year2011"></a> 2011 
  * [Realization of low frequency and controllable bandwidth squeezing based on a four-wave-mixing amplifier in rubidium vapor](https://zhifanzhou.com/publications/Liu2011).                 
 Cunjin Liu, Jietai Jing, **Zhifan Zhou**, Raphael C Pooser, Florian Hudelist, Lu Zhou, and Weiping Zhang                         
 <i>Optics letters</i>, 36, 2979 (2011).      
