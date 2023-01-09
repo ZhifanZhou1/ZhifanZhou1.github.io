@@ -10,3 +10,4 @@ author_profile: true
 
 **Zhifan Zhou**, Samuel Moukouri, Ron Folman.                                                 
 [[pdf](https://zhifanzhou.com/files/EntangledTopoV19.pdf)]
+<img src="/images/zhou2023a.png" title="mapf demo" style="width:510pt;padding-left:10px;" />
