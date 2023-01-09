@@ -9,7 +9,5 @@ author_profile: true
 
 **Zhifan Zhou**, Luis E. E. Araujo, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                                 
 [[pdf](https://zhifanzhou.com/files/NonlocalMulti.pdf)]
-To appear in arXiv soon.
-
                            
 <img src="/images/zhou2023b.jpeg" title="mapf demo" style="width:400pt;padding-left:10px;" />
