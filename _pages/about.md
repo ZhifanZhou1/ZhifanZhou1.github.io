@@ -17,6 +17,8 @@ I am currently on the 2022-2023 academic job market, looking for faculty opening
 
 
 ## News  
+* \[2023/01\] [Internal clock interferometry](https://arxiv.org/abs/2301.11258) paper appears on arXiv.
+* \[2023/01\] Invited talk about [Nonlocal phase modulation of multi-frequency-mode twin beams: toward networked quantum computing and sensing](https://zhifanzhou.com/slides/SPIE_V5.pdf) at [SPIE Photonics West](https://spie.org/photonics-west/presentation/Nonlocal-phase-modulation-of-multi-frequency-mode-twin-beams/12447-42?SSO=1).
 * \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
 * \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](https://zhifanzhou.com/slides/DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
 * \[2022/05\] Oral presentation about [Dissipative Kerr solitons in a warm atomic vapor system](https://zhifanzhou.com/slides/KerrSolitonV4.pdf) at [CLEO](https://opg.optica.org/abstract.cfm?uri=CLEO_QELS-2022-FS4B.8).
