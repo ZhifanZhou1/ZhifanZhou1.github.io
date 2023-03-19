@@ -9,11 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/) with Dr. Jietai Jing and Dr. Weiping Zhang with the exchange program with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
+I am a Faculty Specialist in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a Faculty Assistant with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and a postdoc
+in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/) with the exchange program with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
 
-I am interested in many topics related to atomic molecular and optical physics, quantum information science, nanofabrication, condensed-matter physics, and the intersection between quantum mechanics and general relativity. My current research focuses on multi-mode entangled lights, networked quantum computing/sensing, atom chip, and the intersection between entanglement and topology.
+I am interested in many topics related to quantum optics and atomic physics, such as atom-field interaction,
+quantum sensing and quantum network.
+%I am interested in many topics related to atomic molecular and optical physics, quantum information science, %nanofabrication, condensed-matter physics, and the intersection between quantum mechanics and general %relativity. My current research focuses on multi-mode entangled lights, networked quantum computing/sensing, %atom chip, and the intersection between entanglement and topology.
+%with Dr. Jietai Jing and Dr. Weiping Zhang 
 
-I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and Optical Physics/Quantum Information Science(Physics/EE/ECE). Please feel free to contact me if you are interested.
+%I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and %Optical Physics/Quantum Information Science(Physics/EE/ECE). Please feel free to contact me if you are %interested.
 
 
 ## News  
