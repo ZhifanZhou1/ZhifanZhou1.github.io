@@ -14,10 +14,6 @@ in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron F
 
 I am interested in many topics related to quantum optics and atomic physics, such as atom-field interaction,
 quantum sensing and quantum network.
-%I am interested in many topics related to atomic molecular and optical physics, quantum information science, %nanofabrication, condensed-matter physics, and the intersection between quantum mechanics and general %relativity. My current research focuses on multi-mode entangled lights, networked quantum computing/sensing, %atom chip, and the intersection between entanglement and topology.
-%with Dr. Jietai Jing and Dr. Weiping Zhang 
-
-%I am currently on the 2022-2023 academic job market, looking for faculty openings in Atomic, Molecular and %Optical Physics/Quantum Information Science(Physics/EE/ECE). Please feel free to contact me if you are %interested.
 
 
 ## News  
