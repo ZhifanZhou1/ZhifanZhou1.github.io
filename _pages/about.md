@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc
+I am a postdoc with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc
 in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/) with Dr. Jietai Jing, and with Dr. Paul Lett via the exchange program at [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
 
 I am interested in many topics related to quantum science and technology including quantum sensing and quantum information processes.  
