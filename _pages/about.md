@@ -9,14 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Faculty Specialist in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a Faculty Assistant with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and a postdoc
-in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/) with the exchange program with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
+I am a Research Scientist with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc
+in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree in [Department of Physics](http://phy.ecnu.edu.cn/phyenglish/main.htm) at [East China Normal University](https://english.ecnu.edu.cn/) with Dr. Jietai Jing, and with Dr. Paul Lett via the exchange program at [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
 
-I am interested in many topics related to quantum optics and atomic physics, such as atom-field interaction,
-quantum sensing and quantum network.
+I am interested in many topics related to quantum science and technology including quantum sensing and quantum information processes.  
 
 
 ## News  
+* \[2023/06\] [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://arxiv.org/abs/2306.13716) appears on arXiv.
 * \[2023/01\] [Internal clock interferometry](https://arxiv.org/abs/2301.11258) paper appears on arXiv.
 * \[2023/01\] Invited talk about [Nonlocal phase modulation of multi-frequency-mode twin beams: toward networked quantum computing and sensing](https://zhifanzhou.com/slides/SPIE_V5.pdf) at [SPIE Photonics West](https://spie.org/photonics-west/presentation/Nonlocal-phase-modulation-of-multi-frequency-mode-twin-beams/12447-42?SSO=1).
 * \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
