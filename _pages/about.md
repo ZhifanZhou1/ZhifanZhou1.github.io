@@ -17,10 +17,11 @@ including quantum sensing, quantum information processing, ultracold atoms, and 
 
 
 ## News  
+* \[2025/04\] [Geometric phase amplification in a clock interferometer for enhanced metrology](https://www.science.org/doi/10.1126/sciadv.adr6893) has been published in Science Advances.
 * \[2024/08\] [Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system](https://arxiv.org/abs/2408.06317) appears on arXiv.
 * \[2024/05\] [Geometric phase amplification in a clock interferometer for enhanced metrology](https://arxiv.org/abs/2405.10226) appears on arXiv.
 * \[2024/01\] [Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing](https://doi.org/10.1364/OE.507727) has been published in Optics Express.
-* \[2023/12\] [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://doi.org/10.1364/OPTICAQ.505870) has been published Optica Quantum.
+* \[2023/12\] [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://doi.org/10.1364/OPTICAQ.505870) has been published in Optica Quantum.
 * \[2023/01\] Invited talk about [Nonlocal phase modulation of multi-frequency-mode twin beams: toward networked quantum computing and sensing](https://zhifanzhou.com/slides/SPIE_V5.pdf) at [SPIE Photonics West](https://spie.org/photonics-west/presentation/Nonlocal-phase-modulation-of-multi-frequency-mode-twin-beams/12447-42?SSO=1).
 * \[2022/10\] Oral presentation about [Nonlocal phase modulation of continuous-variable twin beams](https://zhifanzhou.com/slides/FiOLSV4.pdf) at [FiO+LS](https://opg.optica.org/viewmedia.cfm?uri=FiO-2022-FW1B.2&seq=0).
 * \[2022/06\] Poster presentation about [Geometric phase and topology in a field gradient matter-wave interferometer](https://zhifanzhou.com/slides/DAMOP poster Zhifan_V77.pdf) at [DAMOP](https://engage.aps.org/damop/meetings/annual).
