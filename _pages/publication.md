@@ -27,7 +27,7 @@ You can also find my articles on
 B. E. Anderson, Jie Zhao, **Zhifan Zhou**, Kevin M. Jones, Paul D. Lett                                           
 <i>Optics Express</i>, 32, 23812-23821 (2024).       
 [[pdf](https://zhifanzhou.com/files/Color-switching in an optical parametric oscillator using a phase-conjugate mirror.pdf)]
-[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-13-23812]
+[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-13-23812)]
 
 * [Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing](https://zhifanzhou.com/publications/Zhou2024b)                                  
 Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
