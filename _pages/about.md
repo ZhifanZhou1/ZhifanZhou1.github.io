@@ -9,8 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc with Dr. Paul Lett in [Joint Quantum Institute](https://jqi.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/). Previously, I was a postdoc
-in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree at [East China Normal University](http://phy.ecnu.edu.cn/phyenglish/main.htm), and at Joint Quantum Institute at University of Maryland at College Park and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
+I am a Research Scientist in [Joint Quantum Institute](https://jqi.umd.edu/) and [Institute for Physical Science and Technology](https://https://ipst.umd.edu/) at [University of Maryland at College Park](https://www.umd.edu/) with Dr. Avik Dutt and Dr. Paul Lett. Previously, I was a postdoc in the [Atom Chip Lab](https://www.bgu.ac.il/atomchip/index.html) with Dr. Ron Folman at [Ben-Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx). I got my Ph.D degree at [East China Normal University](http://phy.ecnu.edu.cn/phyenglish/main.htm), and with an exchange program at Joint Quantum Institute at University of Maryland at College Park and [Laser Cooling and Trapping Group](https://www.nist.gov/pml/quantum-measurement-division/laser-cooling-and-trapping) at [National Institute of Standards and Technology](https://www.nist.gov/).  
 
 I am interested in various topics related to quantum science and atomic, molecular, and optical physics,
 including quantum sensing, quantum information processing, ultracold atoms, and precision measurement.
