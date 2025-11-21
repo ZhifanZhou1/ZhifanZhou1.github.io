@@ -27,7 +27,7 @@ You can also find my articles on
 Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
 <i> arXiv preprint arXiv:2408.06317.       
 [[pdf](https://zhifanzhou.com/files/Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing.pdf)]
-[[publisher](https://arxiv.org/abs/2408.06317)]
+[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-2-1305)]
 
 ## <a name="year2022"></a> 2023 
 * [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://zhifanzhou.com/publications/Zhou2023a)                                  
