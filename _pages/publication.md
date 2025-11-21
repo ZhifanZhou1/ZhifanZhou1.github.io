@@ -23,16 +23,22 @@ You can also find my articles on
 
 
 ## <a name="year2022"></a> 2024 
-* [Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing](https://zhifanzhou.com/publications/Zhou2024a)                                  
+* [Color-switching in an optical parametric oscillator using a phase-conjugate mirror](https://zhifanzhou.com/publications/Zhou2024a)                                  
+B. E. Anderson, Jie Zhao, **Zhifan Zhou**, Kevin M. Jones, Paul D. Lett                                           
+<i>Optics Express</i>, 32, 23812-23821 (2024).       
+[[pdf](https://zhifanzhou.com/files/Color-switching in an optical parametric oscillator using a phase-conjugate mirror.pdf)]
+[[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-13-23812]
+
+* [Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing](https://zhifanzhou.com/publications/Zhou2024b)                                  
 Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
-<i> arXiv preprint arXiv:2408.06317.       
+<i>Optics Express</i>, 32, 1305-1313 (2024).       
 [[pdf](https://zhifanzhou.com/files/Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing.pdf)]
 [[publisher](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-2-1305)]
 
 ## <a name="year2022"></a> 2023 
 * [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://zhifanzhou.com/publications/Zhou2023a)                                  
 Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
-<i> arXiv preprint arXiv:2408.06317.       
+<i>Optica Quantum</i>, 1, 71-77 (2023).        
 [[pdf](https://zhifanzhou.com/files/Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing.pdf)]
 [[publisher](https://opg.optica.org/opticaq/fulltext.cfm?uri=opticaq-1-2-71)]
 
