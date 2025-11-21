@@ -10,10 +10,31 @@ You can also find my articles on
 [2025](#year2022) |[2024](#year2022) |[2023](#year2022) |[2022](#year2022) | [2021](#year2021) | [2020](#year2020) | [2019](#year2019) | [2018](#year2018) | [2015](#year2015) | [2014](#year2014) | [2012](#year2012) | [2011](#year2011) 
 
 ## <a name="year2022"></a> 2025 
+* [Geometric phase amplification in a clock interferometer for enhanced metrology](https://zhifanzhou.com/publications/Zhou2025a)                                  
+**Zhifan Zhou**, Sebastian C Carrasco, Christian Sanner, Vladimir S Malinovsky, Ron Folman                                          
+<i>Science Advances</i>,  11, eadr6893 (2025).   
+[[pdf](https://zhifanzhou.com/files/Geometric phase amplification in a clock interferometer for enhanced metrology.pdf)][[publisher](https://www.science.org/doi/full/10.1126/sciadv.adr6893)]
+
+* [Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system](https://zhifanzhou.com/publications/Zhou2025b)                                  
+**Zhifan Zhou**, Luis E. E. Araujo, Matthew DiMario, Jie Zhao, Jing Su, Meng-Chang Wu, B. E. Anderson, Kevin M. Jones, Paul D. Lett                                           
+<i> arXiv preprint arXiv:2408.06317.       
+[[pdf](https://zhifanzhou.com/files/Generation of hypercubic cluster states in 1-4 dimensions in a simple optical system.pdf)]
+[[publisher](https://arxiv.org/abs/2408.06317)]
+
 
 ## <a name="year2022"></a> 2024 
+* [Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing](https://zhifanzhou.com/publications/Zhou2024a)                                  
+Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
+<i> arXiv preprint arXiv:2408.06317.       
+[[pdf](https://zhifanzhou.com/files/Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing.pdf)]
+[[publisher](https://arxiv.org/abs/2408.06317)]
 
 ## <a name="year2022"></a> 2023 
+* [Nonlocal phase modulation of multimode, continuous-variable twin beams](https://zhifanzhou.com/publications/Zhou2023a)                                  
+Luis E. E. Araujo, **Zhifan Zhou**, Matthew DiMario, B. E. Anderson, Jie Zhao, Kevin M. Jones, Paul D. Lett                                           
+<i> arXiv preprint arXiv:2408.06317.       
+[[pdf](https://zhifanzhou.com/files/Characterizing two-mode-squeezed light from four-wave mixing in rubidium vapor for quantum sensing and information processing.pdf)]
+[[publisher](https://opg.optica.org/opticaq/fulltext.cfm?uri=opticaq-1-2-71)]
 
 ## <a name="year2022"></a> 2022 
 * [Nonlocal phase modulation of continuous-variable twin beam](https://zhifanzhou.com/publications/Zhou2022b)                                  
