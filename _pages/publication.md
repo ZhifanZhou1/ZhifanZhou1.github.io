@@ -11,7 +11,7 @@ You can also find my articles on
 
 ## <a name="year2022"></a> 2025 
 * [Geometric phase amplification in a clock interferometer for enhanced metrology](https://zhifanzhou.com/publications/Zhou2025a)                                  
-**Zhifan Zhou**, Sebastian C Carrasco, Christian Sanner, Vladimir S Malinovsky, Ron Folman                                          
+**Zhifan Zhou**, Sebastian C. Carrasco, Christian Sanner, Vladimir S. Malinovsky, Ron Folman                                          
 <i>Science Advances</i>,  11, eadr6893 (2025).   
 [[pdf](https://zhifanzhou.com/files/Geometric phase amplification in a clock interferometer for enhanced metrology.pdf)][[publisher](https://www.science.org/doi/full/10.1126/sciadv.adr6893)]
 
